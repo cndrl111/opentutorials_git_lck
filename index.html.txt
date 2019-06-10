@@ -6,3 +6,4 @@
 - english branch
 - branchlist
 - conflicts
+- confilcts solve
