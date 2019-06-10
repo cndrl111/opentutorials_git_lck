@@ -13,3 +13,4 @@
 - dongkihwa pull
 - push.egoing
 - pull.leezche
+- conflict.egoing
