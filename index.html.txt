@@ -14,4 +14,3 @@
 - push.egoing
 - pull.leezche
 - conflict.egoing.leezche
-- 스테시
