@@ -1,1 +1,2 @@
 <head> 헤드태그 추가 </head>
+<title> git 소개 </title>
