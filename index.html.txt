@@ -3,6 +3,7 @@
 - utf8
 
 2. sub
+- sync.egoing
 - english branch
 - branchlist
 - conflicts
