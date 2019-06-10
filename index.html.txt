@@ -1,16 +1,6 @@
-<<<<<<< HEAD
-<html>
-<body>
-<header>
-<h1>Got</h1>
-</header>
-<ul>
-<li>git ÀÌ¶õ?</li>
-<li>¹öÀü¼³¸í</li>
-</ul>
-</body>
-</html>
-=======
-<head> ÇìµåÅÂ±× Ãß°¡ </head>
-<title> git ¼Ò°³ </title>
->>>>>>> ì‹¤í—˜
+1. main
+- master 
+
+
+2. sub
+
